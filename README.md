@@ -13,7 +13,13 @@
 - Create signup user account in firebase
 - Authentication(using Firebase)
 - push user information to redux store
--
+- Update Profile
+- BugFix : Signup user displayname and profile picture update
+- BugFix : if the user is not logged in redirect /browse to login page and vice versa
+- Unsubscribed to the onAuthStateChanged callback
+- Add hardcoded values to constant file
+- Register for TMBD api and get access token
+- Get data from tmbd nowPlaying movies list
 
 # features
 
