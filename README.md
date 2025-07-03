@@ -29,6 +29,7 @@
 - Embedded the youtube video and make it autoplay
 - Applied tailwind Css
 - Build Secondary Component
+- GPT search feature
 
 # features
 
