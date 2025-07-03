@@ -20,6 +20,15 @@
 - Add hardcoded values to constant file
 - Register for TMBD api and get access token
 - Get data from tmbd nowPlaying movies list
+- Custom Hooks for now playing movies
+- Create movieSlice
+- Updated store with movie data
+- Planning for MainContainer and Secondary
+- Fetch data for trailer video
+- Updated the store with trailer video
+- Embedded the youtube video and make it autoplay
+- Applied tailwind Css
+- Build Secondary Component
 
 # features
 
