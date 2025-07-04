@@ -33,6 +33,12 @@
 - Gpt search bar
 - Multi - language feature in our App
 - Integrate GPT APIS(get openAI key)
+- fetched gptMovieSuggestion from TMDb
+- created gptSlice
+- Reused MovieList component to make movie suggestion container
+- Added .env file for security and git ignore
+- Memoization
+- Made site responsible
 
 # features
 

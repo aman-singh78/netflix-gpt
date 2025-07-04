@@ -5,6 +5,7 @@ import { addTrailerVideo } from "../utils/moviesSlice";
 
 const useMovieTrailer = (movieId) => {
   const dispatch = useDispatch();
+
   useEffect(() => {
     getMovieVideo();
   }, []);
