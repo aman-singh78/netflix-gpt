@@ -30,6 +30,9 @@
 - Applied tailwind Css
 - Build Secondary Component
 - GPT search feature
+- Gpt search bar
+- Multi - language feature in our App
+- Integrate GPT APIS(get openAI key)
 
 # features
 
